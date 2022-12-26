@@ -1,0 +1,11 @@
+public class Runner {
+    public static void main(String[] args) {
+
+
+    GeneralEquations wall = new SingleIngredient();
+    wall.menu();
+
+
+
+    }
+}
